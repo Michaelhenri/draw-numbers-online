@@ -2,7 +2,7 @@
 <br>
 <h2>Projeto Sorteio online em andamento...</a></h2>
 <br>
-<a href="https://github.com/Michaelhenri/projeto-Easy-Shopping/edit/master/README.md">
+<a href="https://michaelhenri.github.io/draw-numbers-online/">
 <img src="https://github.com/Michaelhenri/draw-numbers-online/blob/master/assets/site-draw-online.png" 
   alt="desktop-logo" 
   width="1000px" height="400px"
